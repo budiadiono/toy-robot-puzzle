@@ -1,0 +1,21 @@
+{
+  "name": "robot-puzzle",
+  "version": "0.0.1",
+  "description": "Toy robot puzzle",
+  "main": "index.js",
+  "author": "Budi Adiono",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon -I"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.21",
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
