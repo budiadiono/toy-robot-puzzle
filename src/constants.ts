@@ -1,16 +1,8 @@
 import { RobotFaceDirection } from "./enums";
 
-export const X_UNITS = 10;
-export const Y_UNITS = 5;
-
 // Define the tabletop dimensions
 export const TABLETOP_WIDTH = 5;
 export const TABLETOP_HEIGHT = 5;
-
-/**
- * Commander left (X) position, next to Table Top.
- */
-export const COMMANDER_LEFT = TABLETOP_WIDTH * X_UNITS + Math.ceil(X_UNITS / 2);
 
 /**
  * Since south/west become the most corner, let's transform it!

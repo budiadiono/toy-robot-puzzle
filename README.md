@@ -23,11 +23,3 @@ Here are some rules for these commands:
 - REPORT announces the X,Y and F of the robot.
 
 All commands must be in uppercase, all lower and mixed case commands will be ignored.
-
-## Thanks to
-
-Thanks for introduce me [blessed](https://www.npmjs.com/package/blessed)!
-
-- https://www.npmjs.com/package/blessed
-- https://www.taniarascia.com/snake-game-in-javascript/
-- https://github.com/vsergeev/snake.ts
